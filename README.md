@@ -1,5 +1,5 @@
-# Is trading stocks hitting new 52-week highs profitable?
-In this episode of Beyond the Charts we ask the question, is trading stocks hitting new 52-weeks profitable?
+# Is buying stocks at 52-week highs profitable? 
+In this episode of Beyond the Charts we ask the question, is buying stocks hitting new 52-week highs a profitable trading strategy?
 ## What is Beyond the Charts?
 Beyond the Charts is a series from the [Trade Risk](https://thetraderisk.com/) that seeks to answer new behavioral questions about the stock market every month. All of the episodes are recorded on the Trade Risk's [YouTube channel](https://youtube.com/thetraderisk) where we code up our experiments live with commentary and explanations. You can watch this episode here:
 
