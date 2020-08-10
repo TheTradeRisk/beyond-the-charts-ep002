@@ -9,12 +9,12 @@ All of the code is written in C# and built for the free [NinjaTrader](https://ni
 ```
 1. Navigate to your NinjaTrader local file directory Strategies folder: /Documents/NinjaTrader 8/bin/Custom/Strategies/
 2. Create a folder /BeyondTheCharts within /Strategies/
-3. Checkout Ep001.cs 
+3. Checkout Ep002.cs 
 4. Copy to /Documents/NinjaTrader 8/bin/Custom/Strategies/BeyondTheCharts/
 5. Launch NinjaTrader
 6. Open NinjaScript Editor
 7. Open NinjaScript Explorer on the right hand side
-8. Select BeyondTheCharts folder and double click Ep001
+8. Select BeyondTheCharts folder and double click Ep002
 9. Compile the code. 
 10. You are now ready to test the strategy using StrategyAnalyzer
 ```
