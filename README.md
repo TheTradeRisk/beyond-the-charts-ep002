@@ -18,7 +18,7 @@ All of the code is written in C# and built for the free [NinjaTrader](https://ni
 9. Compile the code. 
 10. You are now ready to test the strategy using StrategyAnalyzer
 ```
-Alternatively you can go directly into NinjaTrader, launch the Strategy Builder, unlock code, copy in our Ep001.cs and update your namespace accordingly.  
+Alternatively you can go directly into NinjaTrader, launch the Strategy Builder, unlock code, copy in our Ep002.cs and update your namespace accordingly.  
 ## Stock market data
 Due to data useage restriction agreements we cannot publish the historical stock market data we used in this experiment. Our source and recommendation for stock market data is [Norgate](https://bit.ly/TRNorgate). For alternative free sources, consider [Tiingo](https://www.tiingo.com) or [Yahoo](https://www.yahoo.com).
 ## Disclaimer
